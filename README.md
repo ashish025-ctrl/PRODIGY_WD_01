@@ -50,5 +50,10 @@ responsive-landing-page/
 └── README.md
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 Contact
-For any questions or inquiries, please contact me at ashishnkumar2001@gmail.com
+For any questions or inquiries, please contact me at ashishnkkumar2001@gmail.com.
+
